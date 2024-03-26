@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ovi-Tehtava-1", "Ovi-Tehtava-1\Ovi-Tehtava-1.csproj", "{52E661AB-BC73-423E-B084-F74A5532AAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E661AB-BC73-423E-B084-F74A5532AAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E661AB-BC73-423E-B084-F74A5532AAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E661AB-BC73-423E-B084-F74A5532AAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E661AB-BC73-423E-B084-F74A5532AAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DECD4A22-913B-470F-A922-5F2051CD55AF}
+	EndGlobalSection
+EndGlobal

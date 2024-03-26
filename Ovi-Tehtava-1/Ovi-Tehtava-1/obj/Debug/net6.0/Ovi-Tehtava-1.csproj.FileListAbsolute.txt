@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\Ovi-Tehtava-1.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\Ovi-Tehtava-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\Ovi-Tehtava-1.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\Ovi-Tehtava-1.AssemblyInfo.cs
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\Ovi-Tehtava-1.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\bin\Debug\net6.0\Ovi-Tehtava-1.exe
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\bin\Debug\net6.0\Ovi-Tehtava-1.deps.json
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\bin\Debug\net6.0\Ovi-Tehtava-1.runtimeconfig.json
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\bin\Debug\net6.0\Ovi-Tehtava-1.dll
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\bin\Debug\net6.0\Ovi-Tehtava-1.pdb
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\Ovi-Tehtava-1.dll
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\refint\Ovi-Tehtava-1.dll
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\Ovi-Tehtava-1.pdb
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\Ovi-Tehtava-1.genruntimeconfig.cache
+C:\Users\root\source\repos\Ovi-Tehtava-1\Ovi-Tehtava-1\obj\Debug\net6.0\ref\Ovi-Tehtava-1.dll
