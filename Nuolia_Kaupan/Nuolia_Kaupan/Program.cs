@@ -26,10 +26,32 @@ public class Nuoli
         kanansulka,
         kotkansulka
     }
-    public string pituus;
-    public karjet karki;
-    public sulat sulka;
+    private string pituus;
+    private karjet karki;
+    private sulat sulka;
     float price = 0f;
+
+    public string GetPituus()
+    {
+        return pituus;
+    }
+
+    public karjet GetKarki()
+    {
+        return karki;
+    }
+
+    public sulat GetSulka()
+    {
+        return sulka;
+    }
+
+    public float GetPrice()
+    {
+        return price;
+    }
+
+
     public void Suorita()
     {
         Console.WriteLine($"Minkälainen kärki? Puu(3) [A], teräs(5) [B] vai timantti(50) [C]?");
