@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\bin\Debug\net6.0\Nuolia_Kaupan.exe
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\bin\Debug\net6.0\Nuolia_Kaupan.deps.json
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\bin\Debug\net6.0\Nuolia_Kaupan.runtimeconfig.json
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\bin\Debug\net6.0\Nuolia_Kaupan.dll
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\bin\Debug\net6.0\Nuolia_Kaupan.pdb
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\Nuolia_Kaupan.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\Nuolia_Kaupan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\Nuolia_Kaupan.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\Nuolia_Kaupan.AssemblyInfo.cs
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\Nuolia_Kaupan.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\Nuolia_Kaupan.dll
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\refint\Nuolia_Kaupan.dll
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\Nuolia_Kaupan.pdb
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\Nuolia_Kaupan.genruntimeconfig.cache
+C:\Users\root\source\repos\Nuolia_Kaupan\Nuolia_Kaupan\obj\Debug\net6.0\ref\Nuolia_Kaupan.dll
