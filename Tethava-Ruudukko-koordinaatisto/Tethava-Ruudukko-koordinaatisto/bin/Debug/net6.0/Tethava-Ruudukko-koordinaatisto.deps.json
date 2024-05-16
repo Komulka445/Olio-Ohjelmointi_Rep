@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tethava-Ruudukko-koordinaatisto/1.0.0": {
+        "runtime": {
+          "Tethava-Ruudukko-koordinaatisto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tethava-Ruudukko-koordinaatisto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
