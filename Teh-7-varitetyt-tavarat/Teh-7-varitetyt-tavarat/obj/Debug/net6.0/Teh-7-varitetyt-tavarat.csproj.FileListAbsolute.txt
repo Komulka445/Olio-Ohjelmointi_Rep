@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\bin\Debug\net6.0\Teh-7-varitetyt-tavarat.exe
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\bin\Debug\net6.0\Teh-7-varitetyt-tavarat.deps.json
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\bin\Debug\net6.0\Teh-7-varitetyt-tavarat.runtimeconfig.json
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\bin\Debug\net6.0\Teh-7-varitetyt-tavarat.dll
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\bin\Debug\net6.0\Teh-7-varitetyt-tavarat.pdb
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\Teh-7-varitetyt-tavarat.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\Teh-7-varitetyt-tavarat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\Teh-7-varitetyt-tavarat.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\Teh-7-varitetyt-tavarat.AssemblyInfo.cs
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\Teh-7-varitetyt-tavarat.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\Teh-7-varitetyt-tavarat.dll
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\refint\Teh-7-varitetyt-tavarat.dll
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\Teh-7-varitetyt-tavarat.pdb
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\Teh-7-varitetyt-tavarat.genruntimeconfig.cache
+C:\Users\root\source\repos\Teh-7-varitetyt-tavarat\Teh-7-varitetyt-tavarat\obj\Debug\net6.0\ref\Teh-7-varitetyt-tavarat.dll

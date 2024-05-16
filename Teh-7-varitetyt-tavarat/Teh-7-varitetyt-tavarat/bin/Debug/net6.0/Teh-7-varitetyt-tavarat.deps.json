@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Teh-7-varitetyt-tavarat/1.0.0": {
+        "runtime": {
+          "Teh-7-varitetyt-tavarat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teh-7-varitetyt-tavarat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
