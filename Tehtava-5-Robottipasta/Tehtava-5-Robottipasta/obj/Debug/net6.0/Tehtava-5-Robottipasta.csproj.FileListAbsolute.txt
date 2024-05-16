@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\bin\Debug\net6.0\Tehtava-5-Robottipasta.exe
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\bin\Debug\net6.0\Tehtava-5-Robottipasta.deps.json
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\bin\Debug\net6.0\Tehtava-5-Robottipasta.runtimeconfig.json
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\bin\Debug\net6.0\Tehtava-5-Robottipasta.dll
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\bin\Debug\net6.0\Tehtava-5-Robottipasta.pdb
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\Tehtava-5-Robottipasta.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\Tehtava-5-Robottipasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\Tehtava-5-Robottipasta.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\Tehtava-5-Robottipasta.AssemblyInfo.cs
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\Tehtava-5-Robottipasta.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\Tehtava-5-Robottipasta.dll
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\refint\Tehtava-5-Robottipasta.dll
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\Tehtava-5-Robottipasta.pdb
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\Tehtava-5-Robottipasta.genruntimeconfig.cache
+C:\Users\root\source\repos\Tehtava-5-Robottipasta\Tehtava-5-Robottipasta\obj\Debug\net6.0\ref\Tehtava-5-Robottipasta.dll
