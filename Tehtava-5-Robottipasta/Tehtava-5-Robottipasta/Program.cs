@@ -1,56 +1,66 @@
 ﻿using System;
 
-//käskyt alkaa
-public abstract class Robottikasky
+/*
+ *  POHDINTA jos se piti ees tänne laittaa
+ * apstraktit luokat voi tarjota valmiin osittaisen toteutuksen ja sisältää erilaisia metodeja(?) toisin ku rajapinnat määrittelee vaan "toimintojen"? rakenteen.
+molempia tarvitaan eri tilanteissa, apstrakteja silloin jos halutaan luoda monia kohtuu samanlaisia luokkia joita ei tarvii muokata paljoa.
+Rajapintoja kannattaa käyttää jos pitää luoda monia enemmän erilaisia luokkia, joissa on enemmän muokattavuutta*/
+
+
+
+
+//kaskyt alka
+public interface IRobottiKasky // tammonen
 {
-    public abstract void Suorita(Robotti robotti); // ei toiminu ilman tätä apstraktia nii se on nyt siibä
+    void Suorita(Robotti robotti);
 }
-public class Käynnistä : Robottikasky
+public class Kaynnista : IRobottiKasky
 {
-    public override void Suorita(Robotti robotti)
+    public void Suorita(Robotti robotti)
     {
-        robotti.Kaynnissa = true;
+        robotti.OnKaynnissa = true;
     }
 }
-public class Sammuta : Robottikasky
+public class Sammuta : IRobottiKasky
 {
-    public override void Suorita(Robotti robotti)
+    public void Suorita(Robotti robotti)
     {
-        robotti.Kaynnissa = false;
+        robotti.OnKaynnissa = false;
     }
 }
-public class Yloskasky : Robottikasky
+public class YlosKasky : IRobottiKasky
 {
-    public override void Suorita(Robotti robotti)
+    public void Suorita(Robotti robotti)
     {
-        if (robotti.Kaynnissa)
+        if (robotti.OnKaynnissa)
             robotti.Y++;
     }
 }
-public class Alaskasky : Robottikasky
+public class AlasKasky : IRobottiKasky
 {
-    public override void Suorita(Robotti robotti)
+    public void Suorita(Robotti robotti)
     {
-        if (robotti.Kaynnissa)
+        if (robotti.OnKaynnissa)
             robotti.Y--;
     }
 }
-public class Vasenkasky : Robottikasky
+public class VasenKasky : IRobottiKasky
 {
-    public override void Suorita(Robotti robotti)
+    public void Suorita(Robotti robotti)
     {
-        if (robotti.Kaynnissa)
+        if (robotti.OnKaynnissa)
             robotti.X--;
     }
 }
-public class Oikeakasky : Robottikasky
+public class OikeaKasky : IRobottiKasky
 {
-    public override void Suorita(Robotti robotti)
+    public void Suorita(Robotti robotti)
     {
-        if (robotti.Kaynnissa)
+        if (robotti.OnKaynnissa)
             robotti.X++;
     }
 }
+
 
 //
 
@@ -59,51 +69,51 @@ public class Robotti //eka
 {
     public int X { get; set; }
     public int Y { get; set; }
-    public bool Kaynnissa { get; set; }
-    public Robottikasky?[] kaskyt { get; } = new Robottikasky?[3];
+    public bool OnKaynnissa { get; set; }
+    public IRobottiKasky?[] Kaskyt { get; } = new IRobottiKasky?[3];
 
     public void Suorita()
     {
-        //loppuprompti
-        foreach (Robottikasky? kasky in kaskyt)
+        foreach (IRobottiKasky? kasky in Kaskyt)
         {
             kasky?.Suorita(this);
-            Console.WriteLine($"[{X} {Y} {Kaynnissa}]");
+            Console.WriteLine($"[{X} {Y} {OnKaynnissa}]");
         }
     }
 }
-//pää klässi
-public class Program
+//pää klassi
+class Program
 {
     static void Main(string[] args)
     {
         Robotti robotti = new Robotti();
 
         ////kaskyt
+
         for (int i = 0; i < 3; i++)
         {
-            Console.WriteLine($"Mitä kaskyjä robotile=? Vaihtoehdot: käynnistä, sammuta, ylos, alas, oikea, vasen.{i + 1}/3: ");
+            Console.WriteLine($"Mita kaskyja robotille? Vaihtoehdot: käynnistä, sammuta, ylos, alas, oikea, vasen. {i + 1}/3: ");
             string kaskyStr = Console.ReadLine();
 
             switch (kaskyStr.ToLower())
             {
                 case "käynnistä":
-                    robotti.kaskyt[i] = new Käynnistä();
+                    robotti.Kaskyt[i] = new Kaynnista();
                     break;
                 case "sammuta":
-                    robotti.kaskyt[i] = new Sammuta();
+                    robotti.Kaskyt[i] = new Sammuta();
                     break;
                 case "ylos":
-                    robotti.kaskyt[i] = new Yloskasky();
+                    robotti.Kaskyt[i] = new YlosKasky();
                     break;
                 case "alas":
-                    robotti.kaskyt[i] = new Alaskasky();
+                    robotti.Kaskyt[i] = new AlasKasky();
                     break;
                 case "vasen":
-                    robotti.kaskyt[i] = new Vasenkasky();
+                    robotti.Kaskyt[i] = new VasenKasky();
                     break;
                 case "oikea":
-                    robotti.kaskyt[i] = new Oikeakasky();
+                    robotti.Kaskyt[i] = new OikeaKasky();
                     break;
                 default:
                     Console.WriteLine("Tuntematon kasky.");
@@ -111,7 +121,6 @@ public class Program
                     break;
             }
         }
-
         //latoo kaskyt
         robotti.Suorita();
     }
